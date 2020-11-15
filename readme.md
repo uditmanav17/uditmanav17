@@ -1,0 +1,48 @@
+## 👋 &nbsp;Hey there! I'm Udit Manav
+
+### 👨🏻‍💻 &nbsp;About Me
+
+🤖 &nbsp;Likes to do data analysis, visualization and building ML/DL models.\
+🎓 &nbsp;Graduated with Masters in Computer Science (Data Analytics) from National Institute of Technology, Delhi in May 2019.\
+🌱 &nbsp;Currently learning about System Design for Machine Learning Systems and Cloud Platforms.\
+✍️ &nbsp;In my free time, I read books, tech blogs, explore new tech or go for long walks.\
+💬 &nbsp;Feel free to reach out if you want to work together, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at uditmanav17@gmail.com!\
+📄 &nbsp;Please have a look at my [Résumé](https://raw.githubusercontent.com/uditmanav17/uditmanav17/master/assets/Resume.pdf) for more details about me.
+
+<img alt="Coding" src="https://raw.githubusercontent.com/uditmanav17/uditmanav17/master/assets/Coding.gif" align="right" width="300" height="180"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)&nbsp;
+![Sklearn](https://img.shields.io/badge/-Scikit%20learn-333333?style=flat&logo=scikit-learn)&nbsp;\
+![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;\
+![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)&nbsp;
+![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)&nbsp;
+![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/uditmanav17">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uditmanav17&show_icons=true&theme=vision-friendly-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uditmanav17&hide=jupyter%20notebook&layout=compact&theme=vision-friendly-dark" />
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<!-- <a href="https://uditmanav17.github.io/"><img src="https://img.shields.io/badge/-Personal--website-brightgreen"/></a> -->
+<a href="https://www.linkedin.com/in/uditmanav17/"><img src="https://img.shields.io/badge/-uditmanav17-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:uditmanav17@gmail.com"><img src="https://img.shields.io/badge/-uditmanav17-d3d3d3?style=flat-square&logo=Gmail&logoColor=red"/></a>
+<a href="https://github.com/uditmanav17"><img src="https://img.shields.io/badge/-uditmanav17-000000?style=flat-square&logo=Github&logoColor=white"/></a>
+</p>
