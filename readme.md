@@ -33,8 +33,8 @@
 
 <p align="center">
 <a href="https://github.com/uditmanav17">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=uditmanav17&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uditmanav17&hide=jupyter%20notebook&layout=compact&theme=vision-friendly-dark" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=uditmanav17&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uditmanav17&hide=jupyter%20notebook&layout=compact&langs_count=8&theme=vision-friendly-dark" />
 </a>
 </p>
 
