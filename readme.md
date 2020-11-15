@@ -17,7 +17,7 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
-![Sklearn](https://img.shields.io/badge/-Scikit%20learn-333333?style=flat&logo=scikit-learn)&nbsp;\
+![Sklearn](https://img.shields.io/badge/-Scikit%20learn-333333?style=flat&logo=scikit-learn)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)&nbsp;\
 ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)&nbsp;
@@ -33,7 +33,7 @@
 
 <p align="center">
 <a href="https://github.com/uditmanav17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uditmanav17&show_icons=true&theme=vision-friendly-dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=uditmanav17&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=uditmanav17&hide=jupyter%20notebook&layout=compact&theme=vision-friendly-dark" />
 </a>
 </p>
