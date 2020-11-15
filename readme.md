@@ -17,12 +17,12 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)&nbsp;
 ![Sklearn](https://img.shields.io/badge/-Scikit%20learn-333333?style=flat&logo=scikit-learn)&nbsp;\
+![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)&nbsp;\
 ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;\
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)&nbsp;
@@ -43,6 +43,6 @@
 <p align="center">
 <!-- <a href="https://uditmanav17.github.io/"><img src="https://img.shields.io/badge/-Personal--website-brightgreen"/></a> -->
 <a href="https://www.linkedin.com/in/uditmanav17/"><img src="https://img.shields.io/badge/-uditmanav17-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:uditmanav17@gmail.com"><img src="https://img.shields.io/badge/-uditmanav17-d3d3d3?style=flat-square&logo=Gmail&logoColor=red"/></a>
+<a href="mailto:uditmanav17@gmail.com"><img src="https://img.shields.io/badge/-uditmanav17-ffffff?style=flat-square&logo=Gmail&logoColor=red"/></a>
 <a href="https://github.com/uditmanav17"><img src="https://img.shields.io/badge/-uditmanav17-000000?style=flat-square&logo=Github&logoColor=white"/></a>
 </p>
