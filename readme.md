@@ -14,7 +14,7 @@
 <img alt="Coding" src="https://raw.githubusercontent.com/uditmanav17/uditmanav17/master/assets/Coding.gif" align="right" width="300" height="180"/>
 
 ### 🛠 &nbsp;Tech Stack
-
+<!-- ![Dash](https://img.shields.io/badge/-Dash-333333?style=flat&logo=Dash)&nbsp; -->
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
@@ -22,7 +22,6 @@
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)&nbsp;\
 ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=Streamlit)&nbsp;
-<!-- ![Dash](https://img.shields.io/badge/-Dash-333333?style=flat&logo=Dash)&nbsp; -->
 ![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=Plotly)&nbsp;\
 ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
