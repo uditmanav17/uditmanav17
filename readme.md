@@ -8,7 +8,8 @@
 ✍️ &nbsp;In my free time, I read books, tech blogs, explore new tech or go for long walks.\
 💬 &nbsp;Feel free to reach out if you want to work together, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at uditmanav17@gmail.com!\
-📄 &nbsp;Please have a look at my [Résumé](https://raw.githubusercontent.com/uditmanav17/uditmanav17/master/assets/Resume.pdf) for more details about me.
+📄 &nbsp;Feel free to have a look at my [Résumé](https://raw.githubusercontent.com/uditmanav17/uditmanav17/master/assets/Resume.pdf) to know more about me.
+👨‍💻 &nbsp;Find me solving problems at [Leetcode](https://leetcode.com/uditmanav17/).
 
 <img alt="Coding" src="https://raw.githubusercontent.com/uditmanav17/uditmanav17/master/assets/Coding.gif" align="right" width="300" height="180"/>
 
@@ -20,6 +21,9 @@
 ![Sklearn](https://img.shields.io/badge/-Scikit%20learn-333333?style=flat&logo=scikit-learn)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)&nbsp;\
+![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=Streamlit)&nbsp;
+![Dash](https://img.shields.io/badge/-Dash-333333?style=flat&logo=Dash)&nbsp;
+![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=Plotly)&nbsp;\
 ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
@@ -28,6 +32,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku)&nbsp;
 ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)&nbsp;
 ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=go)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
