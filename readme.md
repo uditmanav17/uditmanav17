@@ -8,7 +8,7 @@
 ✍️ &nbsp;In my free time, I read books, tech blogs, explore new tech or go for long walks.\
 💬 &nbsp;Feel free to reach out if you want to work together, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at uditmanav17@gmail.com!\
-📄 &nbsp;Feel free to have a look at my [Résumé](https://raw.githubusercontent.com/uditmanav17/uditmanav17/master/assets/Resume.pdf) to know more about me.
+📄 &nbsp;Feel free to have a look at my [Résumé](https://raw.githubusercontent.com/uditmanav17/uditmanav17/master/assets/Resume.pdf) to know more about me.\
 👨‍💻 &nbsp;Find me solving problems at [Leetcode](https://leetcode.com/uditmanav17/).
 
 <img alt="Coding" src="https://raw.githubusercontent.com/uditmanav17/uditmanav17/master/assets/Coding.gif" align="right" width="300" height="180"/>
@@ -22,7 +22,7 @@
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)&nbsp;\
 ![Streamlit](https://img.shields.io/badge/-Streamlit-333333?style=flat&logo=Streamlit)&nbsp;
-![Dash](https://img.shields.io/badge/-Dash-333333?style=flat&logo=Dash)&nbsp;
+<!-- ![Dash](https://img.shields.io/badge/-Dash-333333?style=flat&logo=Dash)&nbsp; -->
 ![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=Plotly)&nbsp;\
 ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=anaconda)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
